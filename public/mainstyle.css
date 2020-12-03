@@ -109,7 +109,7 @@
           transition: all 1s ease-out;
           pointer-events: none;
           margin: 100px auto;
-          filter: drop-shadow(2px 2px 4px grey);
+          box-shadow:2px 2px 4px grey;
         }
         .nav-links.open{
         clip-path: circle(1000px at 90% -10%);
